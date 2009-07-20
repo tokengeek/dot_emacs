@@ -15,3 +15,6 @@
 (require 'color-theme)
 (color-theme-initialize)
 (color-theme-renegade)
+
+;; Start server
+(server-start)
