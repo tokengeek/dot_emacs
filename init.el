@@ -14,4 +14,4 @@
 ;; Set colour scheme
 (require 'color-theme)
 (color-theme-initialize)
-(color-theme-retro-orange)
+(color-theme-renegade)
