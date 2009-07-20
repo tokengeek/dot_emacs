@@ -1,3 +1,6 @@
+;; Hide splash screen
+(setq inhibit-splash-screen t)
+
 ;; Setting font
 ;; http://oscarbonilla.com/2007/12/beautiful-emacs/
 (require 'carbon-font)
