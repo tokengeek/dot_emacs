@@ -14,6 +14,9 @@
 (require 'mac-key-mode)
 (mac-key-mode 1)
 
+;; Have access to comments
+(global-set-key "\M-3" "#")
+
 ;; Set colour scheme
 (require 'color-theme)
 (color-theme-initialize)
